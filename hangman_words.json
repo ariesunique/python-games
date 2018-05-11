@@ -1,0 +1,64 @@
+[{
+  "category":"fruit",
+  "words": [
+    "apple",
+    "banana",
+    "blackberries",
+    "cantalope",
+    "grapes",
+    "kiwi",
+    "orange",
+    "pear",
+    "pineapple",
+    "raspberries",
+    "watermelon"
+  ]},
+  {"category":"places",
+    "words": [
+      "airport",
+      "bank",
+      "beach",
+      "church",
+      "library",
+      "office",
+      "restaurant",
+      "school",
+      "stadium"
+      ]},
+  {"category": "colors",
+  "words": [
+    "aqua",
+    "blue",
+    "cerulean",
+    "eggshell",
+    "green",
+    "magenta",
+    "orange",
+    "red",
+    "violet",
+    "yellow"
+  ]},
+  {"category": "animals",
+  "words": [
+    "antelope",
+    "bear",
+    "cheetah",
+    "dinosaur",
+    "elephant",
+    "giraffe",
+    "kangaroo",
+    "zebra"
+  ]},
+  {"category": "sports",
+  "words": [
+    "badminton",
+    "baseball",
+    "basketball",
+    "golf",
+    "hockey",
+    "polo",
+    "raquetball",
+    "tennis",
+    "wrestling"
+  ]}
+]
